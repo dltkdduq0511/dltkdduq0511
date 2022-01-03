@@ -1,0 +1,3 @@
+server.basics:
+default: true
+blockprot.admin: true
